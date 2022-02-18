@@ -22,7 +22,6 @@ Hi there! I'm Wellington Ferreira 😺😺
 
 <br>
 <div align="center">	
-	<a href="https://steamcommunity.com/id/jsalpha7/"><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 	<a href="https://acmeco.slack.com/team/U02U3075Q1H"><img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 	<a href="https://instagram.com/jsalpha7"><img alt="istagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href = "mailto:wantunesferreira@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
